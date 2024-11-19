@@ -1,0 +1,189 @@
+    1  pwd
+    2  cd Desktop
+    3  cd escritorio
+    4  cd Desktop
+    5  cd Escritorio
+    6  clear
+    7  pwd
+    8  cd DESKTOP
+    9  ls
+   10  clear
+   11  cd Escritorio
+   12  cd Desktop
+   13  clear
+   14  pwd
+   15  cd Desktop
+   16  cd imagen
+   17  clear
+   18  ls
+   19  pwd
+   20  cd Desktop
+   21  cd Escritorio
+   22  clear
+   23  pwd
+   24  ls
+   25  ../
+   26  ..
+   27  clear
+   28  cd Desktop
+   29  ls
+   30  clear
+   31  pwd
+   32  cd ../
+   33  cd Desktop
+   34  ls
+   35  ls =1
+   36  ls-1
+   37  ls -1
+   38  mkdir localidad
+   39  cd localidad
+   40  pwd
+   41  ls
+   42  cd Desktrop
+   43  cd ../
+   44  pwd
+   45  ls
+   46  cd localidad
+   47  ls
+   48  pwd
+   49  code .
+   50  ls
+   51  git init
+   52  ls
+   53  ls -a
+   54  ls -al
+   55  git status
+   56  clear
+   57  git add A.txt
+   58  git restore A.txt
+   59  status
+   60  cd A.txt
+   61  pwd
+   62  code A.tat
+   63  code A.txt
+   64  cd localidad
+   65  clear
+   66  code Hola.txt
+   67  code A.txt
+   68  ls
+   69  ls -a
+   70  clear
+   71  touch A.txt
+   72  ls
+   73  cd Desktop
+   74  cd ..
+   75  cd Desktop
+   76  cd localidad
+   77  pwd
+   78  where bash
+   79  clear
+   80  ls
+   81  git init
+   82  git config --global user.email "elvia.palafox@uabc.edu.mx"
+   83  git config --global user.name "Palominchi"
+   84  git config -m "First comit"
+   85  git long
+   86  git log
+   87  clear
+   88  git config --global user.email "elvia.palafox@uabc.edu.mx"
+   89  git config --global user.name "Palomeichon"
+   90  git log
+   91  git -m "First commit"
+   92  git log
+   93  clear
+   94  git config --global user.email "elvia.palafox@uabc.edu.mx"
+   95  git config --global user.name "Palomeichon"
+   96  git brach m-main
+   97  git commit -m "First commit"
+   98  git log
+   99  git branch
+  100  git log
+  101  git branch
+  102  clear
+  103  git config --global user.email "elvia.palafox@uabc.edu.mx"
+  104  git config --global user.name "Palomeichon"
+  105  git commit -m "First commit"
+  106  git status
+  107  git add
+  108  git log
+  109  git branch 'master'
+  110  git log
+  111  clear
+  112  git log
+  113  git log
+  114  git status
+  115  git restore A.txt
+  116  git status
+  117  git add
+  118  git status
+  119  git add A.txt
+  120  git status
+  121  git add .vscode/
+  122  git add .vscode
+  123  clear
+  124  git status
+  125  git status
+  126  git comit -m "Second comit"
+  127  git status
+  128  git log
+  129  git log --online
+  130  git init
+  131  git log --online
+  132  clear
+  133  git config --global user.name "elviapalafox@uabc.edu.mx"
+  134  git config --global user.name "Palomeichon"
+  135  git config --global user.email "elvia.palafox@uabc.edu.mx"
+  136  git commit -m "First commit"
+  137  git log
+  138  git status
+  139  git status
+  140  clear
+  141  git status
+  142  git log
+  143  git ls
+  144  ls
+  145  clear
+  146  git status
+  147  git log --online
+  148  git log --onelime
+  149  git log 
+  150  git log --onelime
+  151  git log --oneline
+  152  clear
+  153  git status
+  154  git rm .vscode/setting.json
+  155  git rm .vscode
+  156  clear
+  157  git status
+  158  git deleted .vscode/settings.json
+  159  git --help
+  160  git status
+  161  git rm .vscode
+  162  git rm-r .vscode
+  163  clear
+  164  git stadus
+  165  git status
+  166  git add 
+  167  git status
+  168  git add/rm .vscode
+  169  git rm vscode
+  170  git rm folder .vscode
+  171  clear
+  172  git rm .vscode -r
+  173  git status
+  174  git status
+  175  git log
+  176  clear
+  177  ls
+  178  git ls
+  179  git status
+  180  clear
+  181  git status
+  182  git add A.txt
+  183  git status
+  184  git -M main
+  185  git branch -M main
+  186  git remote add origin https://github.com/Palomeichon/localidad.git
+  187  git push -u origin main
+  188  history
+  189  history>comandos.txt

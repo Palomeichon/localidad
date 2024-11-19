@@ -1,0 +1,10 @@
+{
+    "window.zoomLevel": 4,
+
+    "terminal.integrated.profiles.windows": {
+        "Git Bash": {
+            "path": "C:\\Program Files\\Git\\usr\\bin\\bash.exe"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+}

@@ -1,0 +1,87 @@
+  501  make numeros
+  502  make numeros
+  503  make numeros
+  504  make numeros
+  505  clear
+  506  wpd
+  507  pwd
+  508  cd examen
+  509  make numeros
+  510  make numeros
+  511  make numeros
+  512  ./numeros
+  513  clear
+  514  make numeros
+  515  ./numeros
+  516  clear
+  517  make numeros
+  518  ./numeros
+  519  clear
+  520  make numeros
+  521  clear
+  522  make numeros
+  523  clear
+  524  make numeros
+  525  clear
+  526  make numeros
+  527  clear
+  528  make numeros
+  529  ./numeros
+  530  cleE
+  531  code remaster.c
+  532  clear
+  533  make remaster
+  534  ./remaster
+  535  ./remaster
+  536  ./remaster
+  537  make remaster
+  538  ./remaster
+  539  ./remaster
+  540  ./remaster
+  541  ./remaster
+  542  make remaster
+  543  ./remaster
+  544  make remaster
+  545  make remaster
+  546  ./remaster
+  547  clear
+  548  make remaster
+  549  ./remaster
+  550  clear
+  551  make remaster
+  552  ./remaster
+  553  clear
+  554  make remaster
+  555  ./remaster
+  556  make remaster
+  557  ./remaster
+  558  clear
+  559  ./remaster
+  560  clear
+  561  make remaster
+  562  ./remaster
+  563  clear
+  564  make remaster
+  565  make remaster
+  566  clear
+  567  make remaster
+  568  ./remaster
+  569  clear
+  570  ./remaster
+  571  clear
+  572  ./remaster
+  573  clear
+  574  make remaster
+  575  ./remaster
+  576  clear
+  577  ./remaster
+  578  clear
+  579  make remaster
+  580  ./remaster
+  581  clear
+  582  make remaster
+  583  ./remaster
+  584  clear
+  585  make remaster
+  586  ./remaster
+  587  history>comandos.txt

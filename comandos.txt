@@ -187,3 +187,23 @@
   187  git push -u origin main
   188  history
   189  history>comandos.txt
+  190  git status
+  191  git add comandos.txt
+  192  git status
+  193  cd ..
+  194  cd Desktrop
+  195  cd Desktop
+  196  cd ..
+  197  cd Desktop
+  198  cd localidad
+  199  git status
+  200  git log
+  201  clear
+  202  git push -u origin main
+  203  git status
+  204  git add .vscode
+  205  git status
+  206  git commit -m "Second commit"
+  207  git status
+  208  git push -u origin main
+  209  history>comandos.txt
